@@ -2,7 +2,7 @@
 
 ![JavaScript Solutions](./public/js-questions.png)
 
-** Image credits: [Lydia Hallie](https://github.com/lydiahallie) **
+**Image credits: [Lydia Hallie](https://github.com/lydiahallie)**
 
 This repository contains solutions to a variety of JavaScript problems. These solutions were inspired by a LinkedIn post by [Author Name] with a collection of 21 JavaScript interview questions. Due to the number of questions, I've split the solutions across two Medium articles:
 
