@@ -72,4 +72,3 @@ npm test
 ## Contributions
 
 Contributions and improvements to the code are welcome! If you have a better solution or want to add more examples, feel free to open a pull request.
-# js-solutions
