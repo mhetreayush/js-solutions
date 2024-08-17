@@ -4,7 +4,7 @@
 
 **Image credits: [Lydia Hallie](https://github.com/lydiahallie)**
 
-This repository contains solutions to a variety of JavaScript problems. These solutions were inspired by a LinkedIn post by [Author Name] with a collection of 21 JavaScript interview questions. Due to the number of questions, I've split the solutions across two Medium articles:
+This repository contains solutions to a variety of JavaScript problems. These solutions were inspired by a LinkedIn post by [Alpana P](https://www.linkedin.com/in/alpnap/) with a collection of 21 JavaScript interview questions. Due to the number of questions, I've split the solutions across two Medium articles:
 
 - [Part 1: 1 - 10](https://medium.com/@mhetreayush1719/top-javascript-questions-asked-in-an-interview-part-1-2e4d6ee63127)
 - [Part 2: 11 - 21](https://medium.com/@mhetreayush1719/top-javascript-questions-asked-in-an-interview-part-2-eb8c572a0959)
