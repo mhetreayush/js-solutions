@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest --outputFile=./test-results/results.json --json"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
